@@ -111,11 +111,11 @@ const API_SITES = {
         name: 'iKun资源'
     },
     lzi: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod/',
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
         name: '量子资源站'
     },
     niuniu: {
-        api: 'https://api.niuniuzy.me/api.php/provide/vod/',
+        api: 'https://api.niuniuzy.me/api.php/provide/vod',
         name: '牛牛资源'
     },
     testSource: {
