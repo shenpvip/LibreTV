@@ -117,6 +117,10 @@ const API_SITES = {
     niuniu: {
         api: 'https://yingmiwo.me/api/tvBox/vod',
         name: '影迷窝'
+    },
+    maotaizy: {
+      api: "https://caiji.maotaizy.cc/api.php/provide/vod",
+      name: "茅台资源"
     }
 };
 
