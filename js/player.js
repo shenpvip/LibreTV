@@ -896,7 +896,7 @@ function renderEpisodes() {
                         : "!bg-[#222] hover:!bg-[#333] hover:!shadow-none"
                     } !border ${
       isActive ? "!border-blue-500" : "!border-[#333]"
-    } rounded-lg transition-colors text-center episode-btn">
+    } rounded-lg transition-colors text-center episode-btn whitespace-normal">
                 ${episode.title ? episode.title : realIndex + 1}
             </button>
         `
